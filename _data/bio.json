@@ -43,10 +43,10 @@
       "startDate": "2021-08",
       "endDate": "Present",
       "courses": [
-        { "name": "Software Engineering (ICS 314)" },
-        { "name": "Algorithms (ICS 311)" },
-        { "name": "Linear Algebra and Differential Equations (MATH 307)" },
-        { "name": "Physics II Lab (PHYS 152L)" },
+        "Software Engineering (ICS 314)",
+        "Algorithms (ICS 311)",
+        "Linear Algebra and Differential Equations (MATH 307)",
+        "Physics II Lab (PHYS 152L)"
       ]
     }
   ],
