@@ -7,7 +7,7 @@ date: 2024-01-18
 published: true
 labels:
   - Software Engineering
-  - Career Path
+  - Career
 ---
 
 <img width="400px" class="rounded float-start pe-4" src="../img/igniting/interests.png">
