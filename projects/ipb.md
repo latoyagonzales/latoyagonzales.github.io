@@ -11,7 +11,7 @@ labels:
 summary: "Running products that I developed for 35F ALC."
 ---
 
-<img class="img-fluid" src="../img/vacay/IPB.png">
+<img width="200px" src="../img/vacay/IPB.png">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
