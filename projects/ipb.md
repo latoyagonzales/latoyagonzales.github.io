@@ -13,9 +13,9 @@ summary: "Running products that I developed for 35F ALC."
 
 <img class="img-fluid" src="../img/igniting/IPB.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Advanced Leaders Course (ALC) is a course that all Sergeants (E-5) have to take in order to either become or maintain a Staff Sergeant (E-6). These courses are Military Occuptational Specialty (MOS) specific. As my MOS is an Intelligence Analyst (35F), I attended the 35F ALC.  
 
-To give you a flavor of the game, here is an excerpt from one run:
+To give you a rundown of the course, here is an example of the graded criteria:
 
 <hr>
 
