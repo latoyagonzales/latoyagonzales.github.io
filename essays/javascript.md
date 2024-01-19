@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/igniting/Javascript Icon.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/javascript.png">
 
 ## Experience
 
