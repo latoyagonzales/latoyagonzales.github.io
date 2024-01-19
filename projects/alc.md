@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/military-classroom.png
-title: "IPB"
+title: "ALC"
 date: 2023
 published: true
 labels:
@@ -13,7 +13,7 @@ summary: "Running products that I developed with peers during 35F ALC."
 
 <img class="img-fluid" src="../img/igniting/IPB.png">
 
-Advanced Leaders Course (ALC) is a course that all Sergeants (E-5) in the Army have to take in order to either become or maintain a Staff Sergeant (E-6). These courses are Military Occuptational Specialty (MOS) specific. As my MOS is an Intelligence Analyst (35F), I attended the 35F ALC.  
+Advanced Leadership Course (ALC) is a course that all Sergeants (E-5) in the Army have to take in order to either become or maintain a Staff Sergeant (E-6). These courses are Military Occuptational Specialty (MOS) specific. As my MOS is an Intelligence Analyst (35F), I attended the 35F ALC.  
 
 To give you a rundown of the course, here is an example of the expected course outcome:
 
