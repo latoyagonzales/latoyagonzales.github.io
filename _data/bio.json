@@ -45,7 +45,7 @@
       "courses": [
         { "name": "Software Engineering (ICS 314)" },
         { "name": "Algorithms (ICS 311)" },
-        { "name": "Linear Algebra and Differential Equations (MATH 307)" }
+        { "name": "Linear Algebra and Differential Equations (MATH 307)" },
         { "name": "Physics II Lab (PHYS 152L)" },
       ]
     }
