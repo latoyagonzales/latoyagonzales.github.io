@@ -8,15 +8,14 @@ published: true
 labels:
   - Volunteer
   - Community
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+summary: "A volunteer cleanup project that I organized for my peers and I."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+During my ALC course, in October of 2023, I coordinated and led a volunteer service project for myself and my peers. For this project, we went to clean the Veteran cemetery on base. We were tasked with picking up trash and just helping with overall beautification. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+The project helped me to further practice both my leadership and organization skills.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+
