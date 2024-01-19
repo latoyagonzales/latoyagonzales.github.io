@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/IPB.png
+image: img/igniting/IPB.png
 title: "IPB"
 date: 2023
 published: true
