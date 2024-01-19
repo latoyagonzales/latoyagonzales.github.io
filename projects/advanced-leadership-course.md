@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/military-classroom.png
-title: "ALC"
+title: "Advanced Leadership Course"
 date: 2023
 published: true
 labels:
