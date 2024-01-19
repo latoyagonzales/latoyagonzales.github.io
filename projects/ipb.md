@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/vacay/IPB.png
-title: "Cotton"
+title: "IPB"
 date: 2014
 published: true
 labels:
