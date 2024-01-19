@@ -45,6 +45,8 @@ demonstrate their ability to analyze information through presentation of a Battl
 movement and maneuver commander. This assessment requires a 70% on the rubric to pass.
 </pre>
 
+Overall, taking this course, helped me to further develop my communication (both written and oral), teamwork, leadership, time management, organization, and critical thinking skills.
+
 <hr>
 
 Source: <a href="https://mi.llc.army.mil/"><i class="large github icon "></i>mi.llc.army.mil</a>
