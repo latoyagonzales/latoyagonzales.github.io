@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/vacay/IPB.png
 title: "IPB"
-date: 2014
+date: 2023
 published: true
 labels:
   - DCGS
