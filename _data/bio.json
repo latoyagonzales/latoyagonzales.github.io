@@ -30,13 +30,6 @@
   ],
   "education": [
     {
-      "institution": "College of Charleston",
-      "area": "Computer Science",
-      "studyType": "B.S.",
-      "startDate": "2014-08",
-      "endDate": "2016-05"
-    },
-    {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
@@ -48,23 +41,30 @@
         "Linear Algebra and Differential Equations (MATH 307)",
         "Physics II Lab (PHYS 152L)"
       ]
+    },
+    {
+      "institution": "College of Charleston",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2014-08",
+      "endDate": "2016-05"
     }
   ],
   "work": [
-    {
-      "company": "United States Army",
-      "position": "Intelligence Analyst",
-      "website": "",
-      "startDate": "2016-05-02",
-      "endDate": "2020-11-20",
-      "summary": "supervises, performs, or coordinates, collection management, analysis, processing, and dissemination of strategic and tactical intelligence",
-    },
     {
       "company": "United States Army Reserve (USAR)",
       "position": "Intelligence Analyst",
       "website": "",
       "startDate": "2021-03",
       "endDate": "Present",
+      "summary": "supervises, performs, or coordinates, collection management, analysis, processing, and dissemination of strategic and tactical intelligence",
+    },
+    {
+      "company": "United States Army",
+      "position": "Intelligence Analyst",
+      "website": "",
+      "startDate": "2016-05-02",
+      "endDate": "2020-11-20",
       "summary": "supervises, performs, or coordinates, collection management, analysis, processing, and dissemination of strategic and tactical intelligence",
     }
   ],
