@@ -10,18 +10,16 @@ labels:
   - Career Path
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/vacay/interests.png">
 
 ## So many options...
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+I’ve always been interested in Computer Science. However, once I decided to actually pursue a career in the field, I quickly noticed how broad of a field it actually was. 
 
 ## What about Software Engineering?
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
-
-I
+This semester, I am enrolled in a Software Engineering course at the University of Hawaii at Manoa. Before this course, I had experience with the programming languages Python, Java, and C. However, I had absolutely no experience whatsoever with Javascript. So far, I am enjoying both the language and the course. 
 
 ## New Career Path?
 
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+Lately, I had been convinced that I wanted to pursue the specific path of Cybersecurity. However, I will admit that I don't find software engineering terrible. Although it's way too early to commit to completely switching, I am interested. I am enjoying the couse so far and can't wait to learn as much as I can.
