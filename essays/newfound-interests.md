@@ -18,7 +18,7 @@ I’ve always been interested in Computer Science. However, once I decided to ac
 
 ## What about software engineering?
 
-This semester, I am enrolled in a Software Engineering course at the University of Hawaii at Manoa. Before this course, I had some experience with the programming languages Python, Java, and C. However, I had absolutely no experience whatsoever with Javascript. So far, I am enjoying both the language and the course. 
+This semester, I am enrolled in a Software Engineering course at the University of Hawaii at Manoa. Before this course, I had some experience with the programming languages Python, Java, C, and C++. However, I had absolutely no experience whatsoever with Javascript. So far, I am enjoying both the language and the course. 
 
 ## New career path?
 
