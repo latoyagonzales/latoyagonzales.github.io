@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/vacay/IPB.png
 title: "Cotton"
 date: 2014
-published: false
+published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - DCGS
+  - MFWS
+summary: "Running products that I developed for 35F ALC."
 ---
 
 <img class="img-fluid" src="../img/vacay/IPB.png">
