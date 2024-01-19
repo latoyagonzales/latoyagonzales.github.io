@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/igniting/IPB.png
+image: img/military-classroom.png
 title: "IPB"
 date: 2023
 published: true
