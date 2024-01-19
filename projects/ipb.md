@@ -8,7 +8,7 @@ published: true
 labels:
   - DCGS
   - MFWS
-summary: "Running products that I developed for 35F ALC."
+summary: "Running products that I developed with peers during 35F ALC."
 ---
 
 <img class="img-fluid" src="../img/igniting/IPB.png">
