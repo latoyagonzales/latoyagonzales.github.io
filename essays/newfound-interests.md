@@ -10,7 +10,7 @@ labels:
   - Career Path
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/vacay/newfound-interests.png">
+<img width="100px" class="rounded float-start pe-4" src="../img/igniting/interests.png">
 
 ## So many options...
 
