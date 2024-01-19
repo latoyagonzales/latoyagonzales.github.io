@@ -14,11 +14,11 @@ labels:
 
 ## So many options...
 
-I’ve always been interested in Computer Science. However, once I decided to actually pursue a career in the field, I quickly noticed how broad of a field it actually was. 
+I’ve always been interested in Computer Science. However, once I decided to actually pursue a career in the field, I quickly noticed how broad of a field it actually was. I quickly became overwhelmed with so options to pick from to be completley honest. How could I possibly choose?
 
 ## What about Software Engineering?
 
-This semester, I am enrolled in a Software Engineering course at the University of Hawaii at Manoa. Before this course, I had experience with the programming languages Python, Java, and C. However, I had absolutely no experience whatsoever with Javascript. So far, I am enjoying both the language and the course. 
+This semester, I am enrolled in a Software Engineering course at the University of Hawaii at Manoa. Before this course, I had some experience with the programming languages Python, Java, and C. However, I had absolutely no experience whatsoever with Javascript. So far, I am enjoying both the language and the course. 
 
 ## New Career Path?
 
