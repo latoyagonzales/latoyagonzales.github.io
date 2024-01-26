@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/questions.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/questions.png">
 
 ## Introduction
 
