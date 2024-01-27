@@ -12,7 +12,7 @@ summary: "My peers and I successfully completed the 640th Regiment's 26.2 mile r
 
 <div class="text-center p-4">
   <img width="200px" src="../img/SSG Gonzales, LaToya C. - 26.2 Mile Ruck 1.png" class="img-thumbnail" >
-  <img width="200px" src="../img/SSG Gonzales, LaToya C. - 26.2 Mile Ruck 2.pngg" class="img-thumbnail" >
+  <img width="200px" src="../img/SSG Gonzales, LaToya C. - 26.2 Mile Ruck 2.png" class="img-thumbnail" >
   <img width="200px" src="../img/SSG Gonzales, LaToya C. - 26.2 Mile Ruck 3.png" class="img-thumbnail" >
   <img width="200px" src="../img/SSG Gonzales, LaToya C. - 26.2 Mile Ruck 4.png" class="img-thumbnail" >
    <img width="200px" src="../img/ruck-medal.png" class="img-thumbnail" >
