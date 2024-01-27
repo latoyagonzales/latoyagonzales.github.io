@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/questions.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/questions.png">
 
 ## Ask Dumb Questions, Get Dumb Answers
 
