@@ -36,7 +36,7 @@ Eric Raymond's "How To Ask Questions The Smart Way", states that before asking a
 
 7. If you're a programmer, try to find an answer by reading the source code.
 
-It's always best to exhaust all other resources first. Give it some effort and show that you gave it effort. Even if you don't find exactly what you're looking for while doing your own research, maybe you'll get one step closer, or even learn something new. Also, when you do ask your question, you'll potentially be able to provide more information to facilitate that smart question. 
+Before you ask a question, it's always best to exhaust all other resources first. Give it some effort and show that you gave it effort. Even if you don't find exactly what you're looking for while doing your own research, maybe you'll get one step closer, or even learn something new. Also, when you do ask your question, you'll potentially be able to provide more information to facilitate that smart question. 
 
 ## StackOverflow Smart Question
 
