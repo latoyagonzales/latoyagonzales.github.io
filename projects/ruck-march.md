@@ -15,7 +15,7 @@ summary: "My peers and I successfully completed the 640th Regiment's 26.2 mile r
   <img width="200px" src="../img/ruck-tshirt.png" class="img-thumbnail" >
   <img width="200px" src="../img/ruck-tshirt.png" class="img-thumbnail" >
   <img width="200px" src="../img/ruck-tshirt.png" class="img-thumbnail" >
-  <img width="200px" src="../img/ruck-tshirt.png" class="img-thumbnail" >
+   <img width="200px" src="../img/ruck-medal.png" class="img-thumbnail" >
   <img width="200px" src="../img/ruck-tshirt.png" class="img-thumbnail" >
 </div>
 
