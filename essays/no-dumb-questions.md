@@ -63,4 +63,4 @@ If a function was called by a function, which in turn was called by another func
 
 ## Conclusion
 
-All in all, asking questions isn't dumb, but . I've found myself asking a question and not getting the desired answer. Ultimmately, this just means that the intend behind the question wasn't interpreted correctly. An answer is only going to be as good as the question asked.
+All in all, asking questions isn't dumb, but there are smart ways to go about it. I've found myself asking a question and not getting the desired answer. Ultimmately, this just means that the intent behind the question wasn't interpreted correctly. An answer is only going to be as good as the question asked.
