@@ -11,13 +11,16 @@ labels:
   - StackOverflow
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/questions.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/questions.png">
 
 ## Ask Dumb Questions, Get Dumb Answers
 
 Everyone has heard the saying “There’s no such thing as a stupid question.” at least once before. However, my family also says, "Ask dumb questions, get dumb answers". While I do agree with the fact that it's always beneficial to ask questions, especially when you are trying to learn, I also think that there's always a tactful way to go about it.    
 
 Eric Raymond's "How To Ask Questions The Smart Way", states that before asking a technical question you should:
+
+
+
 
 1. Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
 
