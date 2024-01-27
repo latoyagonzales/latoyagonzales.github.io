@@ -19,9 +19,6 @@ Everyone has heard the saying “There’s no such thing as a stupid question.�
 
 Eric Raymond's "How To Ask Questions The Smart Way", states that before asking a technical question you should:
 
-
-
-
 1. Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
 
 2. Try to find an answer by searching the Web.
@@ -38,7 +35,7 @@ Eric Raymond's "How To Ask Questions The Smart Way", states that before asking a
 
 Before you ask a question, it's always best to exhaust all other resources first. Give it some effort and show that you gave it effort. Even if you don't find exactly what you're looking for while doing your own research, maybe you'll get one step closer, or even learn something new. Also, when you do ask your question, you'll potentially be able to provide more information to facilitate that smart question. 
 
-## StackOverflow Smart Question
+## StackOverflow
 
 StackOverlow even has its own [guidlines] (https://stackoverflow.com/help/how-to-ask) to follow while trying to ask a question. I was able to find an example of a question that I believe is the smart way to ask a question. 
 
