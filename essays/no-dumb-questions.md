@@ -37,7 +37,7 @@ It's always best to exhaust all other resources first. Give it some effort and s
 
 ## StackOverflow Smart Question
 
-StackOverlow even has its own [guidlines] (https://stackoverflow.com/help/how-to-ask) to follow while trying to ask a question. I was able to find an example of a question that I believe is the smart way to ask a question. In case you wanted to view the question yourself here is a link to [StackOverflow] (https://stackoverflow.com/questions/111102/how-do-javascript-closures-work). 
+StackOverlow even has its own [guidlines] (https://stackoverflow.com/help/how-to-ask) to follow while trying to ask a question. I was able to find an example of a question that I believe is the smart way to ask a question. 
 
 ```
 Q: How would you explain JavaScript closures to someone with a knowledge of the concepts they consist of (for example functions, variables and the like), but does not understand closures themselves?
@@ -59,7 +59,7 @@ Every function in JavaScript maintains a reference to its outer lexical environm
 If a function was called by a function, which in turn was called by another function, then a chain of references to outer lexical environments is created. This chain is called the scope chain.
 
 ```
- The answer goes on to provide uses, examples, and other resources pertaining to closures. 
+ The answer goes on to provide uses, examples, and other resources pertaining to closures. It can be viewed on [StackOverflow] (https://stackoverflow.com/questions/111102/how-do-javascript-closures-work). 
 
 ## Conclusion
 
