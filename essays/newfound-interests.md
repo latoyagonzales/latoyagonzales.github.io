@@ -10,11 +10,11 @@ labels:
   - Career
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/igniting/interests.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/newfound-interests/newfound-interests.png">
 
 ## So many options...
 
-I’ve always been interested in Computer Science. However, once I decided to actually pursue a career in the field, I quickly noticed how broad of a field it actually was. I quickly became overwhelmed with so options to pick from to be completley honest. How could I possibly choose?
+I’ve always been interested in Computer Science. However, once I decided to actually pursue a career in the field, I quickly noticed how broad of a field it actually was. I quickly became overwhelmed with so options to pick from to be completely honest. How could I possibly choose?
 
 ## What about software engineering?
 
@@ -22,4 +22,4 @@ This semester, I am enrolled in a Software Engineering course at the University 
 
 ## New career path?
 
-Lately, I had been convinced that I wanted to pursue the specific path of Cybersecurity. However, I will admit that I don't find software engineering terrible. Although it's way too early to commit to completely switching, I am interested. I am enjoying the couse so far and can't wait to learn as much as I can.
+Lately, I had been convinced that I wanted to pursue the specific path of Cybersecurity. However, I will admit that I don't find software engineering terrible. Although it's way too early to commit to completely switching, I am interested. I am enjoying the course so far and can't wait to learn as much as I can.
