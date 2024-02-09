@@ -19,5 +19,5 @@ Too many times have I run into the issue of my code not working due to a simple 
 
 ## ESLint with IntelliJ
 
-This semester, we have begun to use ESLint with IntelliJ IDEA. I have found this to be an extremely helpful tool. For the most part, it has not been too difficult to receive the green check mark. However, I believe that this is because I have started to get used to the causes of errors and am able to prevent them beforehand. I prefer it a lot because it not only highlights your errors, but also recommends the fixes for you. This is extremely beneficial in my opinion, in terms of both understanding and time efficiency. 
+This semester in Software Engineering, we have begun to use ESLint with IntelliJ IDEA. I have found this to be an extremely helpful tool. For the most part, it has not been too difficult to receive the green check mark. However, I believe that this is because I have started to get used to the causes of errors and am able to prevent most of them beforehand. I prefer it a lot because it not only highlights your errors, but recommends the fixes while also providing the reasoning for you. This is extremely beneficial in my opinion, in terms of both understanding and time efficiency. 
 
