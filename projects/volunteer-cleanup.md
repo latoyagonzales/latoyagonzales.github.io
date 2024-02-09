@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cleanup.png
+image: img/volunteer-cleanup/cleanup.png
 title: "Volunteer Cleanup"
 date: 2023
 published: true

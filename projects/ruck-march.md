@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ruck.png
+image: img/ruck/ruck.png
 title: "26.2 Mile Ruck March Challenge"
 date: 2023
 published: true

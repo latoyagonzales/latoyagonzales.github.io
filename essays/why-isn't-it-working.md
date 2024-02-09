@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "Why isn't it working?!"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-18
+date: 2024-02-08
 published: false
 labels:
   - Software Engineering
