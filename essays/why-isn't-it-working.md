@@ -1,26 +1,23 @@
 ---
 layout: essay
 type: essay
-title: "Why isn't it working?!"
+title: "Why isn't my code working?!"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-08
-published: false
+published: true
 labels:
   - Software Engineering
   - IntelliJ IDEA
   - ESLint
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/newfound-interests/newfound-interests.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/why-isn't-it-working/syntax-error.png">
 
-## So many options...
+## Grammar?
 
-I’ve always been interested in Computer Science. However, once I decided to actually pursue a career in the field, I quickly noticed how broad of a field it actually was. I quickly became overwhelmed with so options to pick from to be completely honest. How could I possibly choose?
+Too many times have I run into the issue of my code not working due to a simple syntax error. Just like in English class how we have grammar, in a way, I believe that coding standards are that for coding languages. They not only help to minimize errors within the code, but also help to standardize code for ease of readability. This ultimately creates a type of universal understanding for other readers as well.
 
-## What about software engineering?
+## ESLint with IntelliJ
 
-This semester, I am enrolled in a Software Engineering course at the University of Hawaii at Manoa. Before this course, I had some experience with the programming languages Python, Java, C, and C++. However, I had absolutely no experience whatsoever with Javascript. So far, I am enjoying both the language and the course. 
+This semester, we have begun to use ESLint with IntelliJ IDEA. I have found this to be an extremely helpful tool. For the most part, it has not been too difficult to receive the green check mark. However, I believe that this is because I have started to get used to the causes of errors and am able to prevent them beforehand. I prefer it a lot because it not only highlights your errors, but also recommends the fixes for you. This is extremely beneficial in my opinion, in terms of both understanding and time efficiency. 
 
-## New career path?
-
-Lately, I had been convinced that I wanted to pursue the specific path of Cybersecurity. However, I will admit that I don't find software engineering terrible. Although it's way too early to commit to completely switching, I am interested. I am enjoying the course so far and can't wait to learn as much as I can.
