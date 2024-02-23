@@ -12,7 +12,7 @@ labels:
 
 <img width="700px" class="rounded float-start pe-4" src="../img/ui-frameworks/islandsnow.png">
 
-<hr>
+<br>
 
 ## User Interface (UI) Frameworks
 
