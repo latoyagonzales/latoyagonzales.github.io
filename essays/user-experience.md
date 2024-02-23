@@ -11,7 +11,7 @@ labels:
 ---
 
 <div class="container justify-content-center">
-<img width="700px" class="rounded float-start pe-4" src="../img/ui-frameworks/islandsnow.png">
+<img width="700px" src="../img/ui-frameworks/islandsnow.png">
 </div>
 
 ## User Interface (UI) Frameworks
