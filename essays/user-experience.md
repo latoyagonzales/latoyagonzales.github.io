@@ -10,8 +10,8 @@ labels:
   - Bootstrap 5
 ---
 
-<div class="container justify-content-center">
-<img width="700px" src="../img/ui-frameworks/islandsnow.png">
+<div class="container-fluid justify-content-center">
+<img width="100%" src="../img/ui-frameworks/islandsnow.png">
 </div>
 
 ## User Interface (UI) Frameworks
