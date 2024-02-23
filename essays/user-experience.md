@@ -10,7 +10,7 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/ui-frameworks/islandsnow.png">
+<img width="700px" class="rounded float-start pe-4" src="../img/ui-frameworks/islandsnow.png">
 
 ## User Interface (UI) Frameworks
 
