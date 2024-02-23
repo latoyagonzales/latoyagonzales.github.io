@@ -12,6 +12,8 @@ labels:
 
 <img width="700px" class="rounded float-start pe-4" src="../img/ui-frameworks/islandsnow.png">
 
+<hr>
+
 ## User Interface (UI) Frameworks
 
 After being introduced to HTML and CSS, we have now moved on to implementing UI frameworks. I had never used an UI framework prior to this, so I could definitely see how it can be said that the experience could be seen as learning a new programming language. Although there can be challenges and difficulties with learning the ends and outs and rules of an UI framework, I believe that there are definitely software engineering benefits of UI frameworks. 
