@@ -12,7 +12,7 @@ labels:
 ---
 
 <div class="container-fluid justify-content-center">
-<img width="400px" src="../img/blueprint/blueprint.png">
+<img width="500px" src="../img/blueprint/blueprint.png">
 </div>
 
 <br>
