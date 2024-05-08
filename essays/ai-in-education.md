@@ -11,7 +11,7 @@ labels:
 ---
 
 <div class="container-fluid justify-content-center">
-<img width="700px" src="../img/ai-in-education/chatgpt.png">
+<img width="300px" src="../img/ai-in-education/chatgpt.png">
 </div>
 
 <br>
