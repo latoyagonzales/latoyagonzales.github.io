@@ -102,10 +102,10 @@ I have not personally used AI in any real-world projects. However, from using it
 One potential challenge that I didn't want to have with using AI in this course, was becoming to reliant on it. However, I didn't run into this issue. If anything I think that continued to use it as only using it as a debugging tool and only after I was absolutely stuck. I believe that the integration of AI in software engineering education 
 
 ### VI. Comparative Analysis:
-In regards to comparing traditional teaching methods and AI-enhance approaches in context of software engineering education, overall, I still believe that traditional is better. AI is just a good tool/resource to accompany traditional teaching. For example, knowledge retention and practical skill development are tested in the traditional methods. Engagement?
+In regards to comparing traditional teaching methods and AI-enhance approaches in context of software engineering education, overall, I still believe that traditional is better. AI is just a good tool/resource to accompany traditional teaching. For example, knowledge retention and practical skill development are tested in the traditional methods.
 
 ### VII. Future Considerations:
-I believe that AI should continue to have a role in software engineering education. It was extremely helpful for me throughout this course. However, one thing that I was afraid of was becoming too dependent on it. This is why I 
+I believe that AI should continue to have a role in software engineering education. It was extremely helpful for me throughout this course. However, one thing that I was afraid of was becoming too dependent on it. This is why I believe it's important to only use it as a tool.
 
 ### VIII. Conclusion:
 In conclusion, AI is a powerful tool/resource that I feel should continue to be used in the Software Engineering course. While, from personal use, I don't necessarily recommend it when in a time crunch like a WOD, I do think it's a great resource. Also, I do think that unless you're extremely proficient at using it, I believe that it's extremely important to use it as a tool and not try to have it do all the work for you. Not just to make sure that you can do it on your own.
