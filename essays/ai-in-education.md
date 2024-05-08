@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI in Education: Is It Worth It?"
+title: "AI in Education: Is it Worth it?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-07
 published: true
