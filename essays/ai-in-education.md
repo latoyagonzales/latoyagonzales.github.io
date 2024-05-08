@@ -99,7 +99,7 @@ AI has had an overall positive influence on my learning experience. I believe th
 I have not personally used AI in any real-world projects. However, from using it in ICS 314, I would definitely say that it would be effective in addressing real-world software engineering challenges. 
 
 ### V. Challenges and Opportunities:
-One potential challenge that I didn't want to have with using AI in this course, was becoming to reliant on it. However, I didn't run into this issue. If anything I think that continued to use it as only using it as a debugging tool and only after I was absolutely stuck. I believe that the integration of AI in software engineering education 
+One potential challenge that I didn't want to have with using AI in this course, was becoming to reliant on it. However, I didn't run into this issue. If anything I think that continued to use it as only using it as a debugging tool and only after I was absolutely stuck. Still, overall, I believe that the integration of AI in software engineering education is beneficial.
 
 ### VI. Comparative Analysis:
 In regards to comparing traditional teaching methods and AI-enhance approaches in context of software engineering education, overall, I still believe that traditional is better. AI is just a good tool/resource to accompany traditional teaching. For example, knowledge retention and practical skill development are tested in the traditional methods.
