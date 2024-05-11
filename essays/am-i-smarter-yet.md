@@ -17,8 +17,8 @@ labels:
 
 <br>
 
-### I. Introduction
-When I registered for ICS 314 Software Engineering, I had no idea what to expect. I did not know exactly what it entailed and I definitely did not expect web application development. However, I did learn a lot about multiple other fundamental software engineer concepts in the process. Out of those that I learned, a few of them were Coding Standard, User Interface Frameworks, and Ethics in Software Engineering. 
+### Introduction
+When I registered for ICS 314 Software Engineering, I had no idea what to expect. I did not know exactly what it entailed, but I was interested to learn web application development. However, I did learn a lot about multiple other fundamental software engineer concepts in the process. Out of those that I learned, a few of them were Coding Standard, User Interface Frameworks, and Ethics in Software Engineering. 
 
 ### Coding Standards
 Coding Standards not only help to minimize errors within code, but also help to standardize code for ease of readability. During this course we used tools such as ESLint with IntelliJ to help us maintain our standards.
