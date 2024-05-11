@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96786", "city": "Wahiawa", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "latoyagonzales", "url": "http://github.com/latoyagonzales" },
-      { "network": "linkedin", "username": "LaToya Gonzales", "url": "https://www.linkedin.com/in/latoya-gonzales-417bb31b2/" },
+      { "network": "linkedin", "username": "LaToya Gonzales", "url": "www.linkedin.com/in/latoya-gonzales-417bb31b2/" }
     ]
   },
   "interests": [
@@ -57,7 +57,7 @@
       "website": "",
       "startDate": "2021-03",
       "endDate": "Present",
-      "summary": "supervises, performs, or coordinates, collection management, analysis, processing, and dissemination of strategic and tactical intelligence",
+      "summary": "supervises, performs, or coordinates, collection management, analysis, processing, and dissemination of strategic and tactical intelligence"
     },
     {
       "company": "United States Army",
@@ -65,7 +65,7 @@
       "website": "",
       "startDate": "2016-05-02",
       "endDate": "2020-11-20",
-      "summary": "supervises, performs, or coordinates, collection management, analysis, processing, and dissemination of strategic and tactical intelligence",
+      "summary": "supervises, performs, or coordinates, collection management, analysis, processing, and dissemination of strategic and tactical intelligence"
     }
   ],
   "references": [
